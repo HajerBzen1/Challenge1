@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Challenge1</string>
+    <string name="activity_a_name">ALC 4 Phase 1</string>
+    <string name="a_title">Welcome to ALC 4.0</string>
+    <string name="about_alc_bt">About ALC</string>
+    <string name="my_profile_bt">My Profile</string>
+    <string name="my_name">Hajer BOUZENZEN</string>
+    <string name="track">Track:</string>
+    <string name="track_title">Android</string>
+    <string name="country">Country:</string>
+    <string name="country_name">Algeria</string>
+    <string name="email">Email:</string>
+    <string name="email_address">fh_bouzenzen@esi.dz</string>
+    <string name="phone">Phone:</string>
+    <string name="phone_number">+21366881....</string>
+    <string name="slack">Slack Username:</string>
+    <string name="slack_username">Hajer BOUZENZEN</string>
+</resources>
